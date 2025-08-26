@@ -46,8 +46,8 @@ Sales Performance/
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/Sales-Performance.git
-cd Sales-Performance
+git clone https://github.com/Sohitha-01/Sales-Performance-Analysis.git
+cd Sales-Performance-Analysis
 ```
 
 ### 2. Explore the Data  
