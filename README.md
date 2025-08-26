@@ -66,17 +66,33 @@ cd Sales-Performance
 
 ---
 
-## Visualizations  
+## 📊 Visualizations  
 
 The **Images/** folder contains 15 charts that summarize sales performance, such as:  
-
 - Sales Trends over Time  
 - Profit Margin Distribution  
 - Category-wise Performance  
 - Top Regions by Sales  
 - Target vs Actuals  
 
-*(To avoid a long README, charts are stored in the Images folder instead of embedded here.)*  
+*(To avoid a long README, charts are stored in the Images folder instead of embedded here. For convenience, direct links to each chart are provided below.)*  
+
+### 🔗 Links to Visualizations  
+- [Average Variance % by Category](Images/Average%20Variance%20%25%20by%20Category.png)  
+- [Category Sales vs Target](Images/Categort%20Slaes%20vs%20Target.png)  
+- [Monthly Profit Margin](Images/Monthly%20Profit%20Margin.png)  
+- [Monthly Sales Trend](Images/Monthly%20Sales%20Trend.png)  
+- [Profit Distribution](Images/Profit%20Distribution.png)  
+- [Profit Margin Distribution](Images/Profit%20Margin%20Distribution.png)  
+- [Profit vs Sales](Images/Profit%20vs%20Sales.png)  
+- [Sales Amount Distribution](Images/Sales%20Amount%20Distribution.png)  
+- [Sales & Profit by Category](Images/Sales%26Profit%20by%20Category.png)  
+- [Top 10 States by Sales](Images/Top%2010%20States%20by%20Sales.png)  
+- [Sales Overview (Dashboard)](Images/Sales%20Overview.png)  
+- [Category Performance (Dashboard)](Images/Category%20Performance.png)  
+- [Customer Insights (Dashboard)](Images/Customer%20Insights.png)  
+- [Regional Performance (Dashboard)](Images/Regional%20Performance.png)  
+- [Top 10 Sub-Categories by Sales](Images/Top%2010%20Sub-Categories%20by%20Sales.png)   
 
 ---
 
