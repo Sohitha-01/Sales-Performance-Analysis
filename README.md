@@ -1,6 +1,6 @@
 ### 📊 Sales Performance Analysis  
 
-This project provides a complete analysis of sales performance using multiple tools and techniques. It includes raw and cleaned datasets, SQL/T-SQL queries, exploratory data analysis (EDA) in Jupyter, and interactive dashboards built in Power BI. The goal is to uncover trends, evaluate performance vs targets, and visualize insights through charts and dashboards for better decision-making.  
+This project provides a complete analysis of sales performance using multiple tools and techniques. It includes raw and cleaned datasets, SQL/T-SQL queries, exploratory data analysis (EDA) in Jupyter, A/B testing in Python, and interactive dashboards built in Power BI. The goal is to uncover trends, evaluate performance vs. targets, and visualize insights through charts and dashboards for better decision-making.
 
 ---
 
@@ -8,61 +8,76 @@ This project provides a complete analysis of sales performance using multiple to
 
 ```
 Sales Performance/
+├── AB Testing/
+│   └── ab_test_basic.py                 # A/B test notebook
+│
 ├── Dashboard/
-│   ├── Sales_Interactive_Dashboard.html   # Interactive dashboard (exported)
-│   ├── Sales_Performance.pbix             # Power BI dashboard
+│   ├── Sales_Interactive_Dashboard.html # Interactive dashboard (exported)
+│   ├── Sales_Performance.pbix           # Power BI dashboard
 │
 ├── Data Sets/
-│   ├── Sales_Raw.csv                      # Raw dataset
-│   ├── Sales_Cleaned.csv                  # Cleaned dataset (CSV)
-│   ├── Sales_Cleaned.xlsx                 # Cleaned dataset (Excel)
+│   ├── Sales_Raw.csv                    # Raw dataset
+│   ├── Sales_Cleaned.csv                # Cleaned dataset (CSV)
+│   ├── Sales_Cleaned.xlsx               # Cleaned dataset (Excel)
+│   ├── List of Orders.csv               # Orders data for A/B testing
+│   ├── Order Details.csv                # Order details for A/B testing
 │
 ├── EDA Analysis/
-│   ├── Sales_EDA.ipynb                    # Exploratory Data Analysis notebook
+│   └── Sales_EDA.ipynb                  # Exploratory Data Analysis notebook
 │
 ├── SQL/
-│   ├── sales_queries.sql                  # SQL queries for analysis
+│   └── sales_queries.sql                # SQL queries for analysis
 │
 ├── T-SQL/
-│   ├── sales_queries_tsql.sql             # T-SQL queries for MS SQL Server
+│   └── sales_queries_tsql.sql           # T-SQL queries for MS SQL Server
 │
 ├── Images/
-│   ├── Chart (1-15).png                   # Visualization charts
+│   ├── Chart (1-15).png                 # Visualization charts
+
 ```
 
 ---
 
 ### Features  
 
-- **Data Preparation**: Raw and cleaned datasets for analysis  
-- **EDA**: Exploratory Data Analysis in Jupyter with visualizations  
-- **SQL/T-SQL Queries**: Database queries for sales insights  
-- **Dashboards**: Power BI dashboards for interactive analysis  
-- **Visualizations**: 15 charts highlighting sales KPIs and trends  
+- **Data Preparation**: Raw and cleaned datasets for analysis
+- **EDA**: Exploratory Data Analysis in Jupyter with visualizations
+- **SQL/T-SQL Queries**: Database queries for sales insights
+- **Dashboards**: Power BI dashboards for interactive analysis
+- **Visualizations**: 15 charts highlighting sales KPIs and trends
+- **A/B Testing**: Simple, Python-only test on revenue metrics
 
 ---
 
 ### Getting Started  
+1. **Clone the Repository**
+    
+    ```bash
+    git clone https://github.com/Sohitha-01/Sales-Performance-Analysis.git
+    cd Sales-Performance-Analysis
+    ```
 
-### 1. Clone the Repository  
-```bash
-git clone https://github.com/Sohitha-01/Sales-Performance-Analysis.git
-cd Sales-Performance-Analysis
-```
+2. **Explore the Data**
+    
+    - Check **Data Sets/** for raw and cleaned data
+    - Use **EDA Analysis/** notebooks in Jupyter
 
-### 2. Explore the Data  
-- Check **Data Sets/** for raw and cleaned data  
-- Use **EDA Analysis/** notebooks in Jupyter  
+3. **Run SQL Queries**
+    
+    - Open scripts in **SQL/** and **T-SQL/** in your preferred DB environment
 
-### 3. Run SQL Queries  
-- Open scripts in **SQL/** and **T-SQL/** in your preferred DB environment  
+4. **View Dashboards**
+    
+    - Open **Dashboard/Sales_Performance.pbix** in Power BI
+    - Or use **Dashboard/Sales_Interactive_Dashboard.html** in your browser
 
-### 4. View Dashboards  
-- Open **Dashboard/Sales_Performance.pbix** in Power BI  
-- Or use **Dashboard/Sales_Interactive_Dashboard.html** in your browser  
+5. **Visual Reports**
+    
+    - View PNG charts inside **Images/**
 
-### 5. Visual Reports  
-- View PNG charts inside **Images/**  
+6. **Run A/B Test**
+    
+    - Navigate to **AB Testing/** and open `ab_test_basic.py`
 
 ---
 
