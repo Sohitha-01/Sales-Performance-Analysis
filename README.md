@@ -83,7 +83,7 @@ Sales Performance/
   - Profit distribution
   - Top customers and states
 
-📸 *Preview:* *(Insert screenshot of your dashboard here)*
+📸 *Preview:* [Sales Overview](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Sales%20Overview.png)    [Regional Performance](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Regional%20Performance.png)    [Customer Insights](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Customer%20Insights.png)    [Category Performance](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Category%20Performance.png)  
 
 ### 4. A/B Testing (Python)
 - Designed an experiment to measure promotional impact.
@@ -92,6 +92,26 @@ Sales Performance/
 ### 5. Business Reporting
 - Final reports created in Word/PDF for management.
 - Summarized insights with business recommendations.
+
+---
+
+## 🔗 Links to Visualizations
+
+- [Average Variance % by Category](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Average%20Variance%20%25%20by%20Category.png)  
+- [Category Sales vs Target](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Categort%20Slaes%20vs%20Target.png)  
+- [Category Performance](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Category%20Performance.png)  
+- [Customer Insights](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Customer%20Insights.png)  
+- [Monthly Profit Margin](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Monthly%20Profit%20Margin.png)  
+- [Monthly Sales Trend](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Monthly%20Sales%20Trend.png)  
+- [Profit Distribution](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Profit%20Distribution.png)  
+- [Profit Margin Distribution](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Profit%20Margin%20Distribution.png)  
+- [Profit vs Sales](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Profit%20vs%20Sales.png)  
+- [Regional Performance](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Regional%20Performance.png)  
+- [Sales Amount Distribution](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Sales%20Amount%20Distribution.png)  
+- [Sales Overview](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Sales%20Overview.png)  
+- [Sales & Profit by Category](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Sales%26Profit%20by%20Category.png)  
+- [Top 10 States by Sales](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Top%2010%20States%20by%20Sales.png)  
+- [Top 10 Sub-Categories by Sales](https://github.com/Sohitha-01/Sales-Performance-Analysis/blob/920b0daaa57db42ff9eec84f8925a6f8047bcae2/Images/Top%2010%20Sub-Categories%20by%20Sales.png)  
 
 ---
 
