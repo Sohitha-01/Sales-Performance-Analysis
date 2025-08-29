@@ -12,7 +12,6 @@ Sales Performance/
 │   └── ab_test_basic.py                 # A/B test notebook
 │
 ├── Dashboard/
-│   ├── Sales_Interactive_Dashboard.html # Interactive dashboard (exported)
 │   ├── Sales_Performance.pbix           # Power BI dashboard
 │
 ├── Data Sets/
