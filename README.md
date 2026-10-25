@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis – End-to-End Data Analyst Project
+# 📊 Sales Performance Analysis
 
 ## 📝 Project Overview
 This project provides a **comprehensive sales performance analysis** using SQL, Python, Power BI, and professional reporting. It demonstrates the full data analyst workflow: data cleaning, KPI creation, exploratory data analysis (EDA), A/B testing, dashboarding, and business reporting. The objective is to uncover sales trends, evaluate performance vs. targets, and provide actionable insights for better decision-making.
