@@ -6,10 +6,10 @@ This project provides a **comprehensive sales performance analysis** using SQL, 
 ---
 
 ## 🎯 Objectives
-- Clean and prepare raw sales data for analysis.
-- Create KPIs and SQL/T-SQL queries to evaluate performance.
-- Perform Exploratory Data Analysis (EDA) with Python.
-- Run A/B tests to evaluate business strategies.
+- Cleaned and prepared raw sales data for analysis.
+- Created KPIs and SQL/T-SQL queries to evaluate performance.
+- Performed Exploratory Data Analysis (EDA) with Python.
+- Ran A/B tests to evaluate business strategies.
 - Build interactive dashboards for insights.
 - Summarize findings in professional business reports.
 
